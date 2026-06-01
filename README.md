@@ -1,64 +1,111 @@
 # Marco A. Parra Vilchis
 
-### PhD Student in Computational Sciences | AI Researcher | Bioinformatics Engineer | Technology Founder
+### 🧬 PhD Student in Computational Sciences | 🤖 AI Researcher | 💻 Bioinformatics Engineer | 🚀 Technology Founder
 
-I build artificial intelligence systems that transform complex biological and operational data into actionable knowledge.
-
-My work spans from precision medicine and multimodal bioinformatics research to AI-powered software platforms used for finance, sports analytics, and operational management.
+Building artificial intelligence systems for precision medicine, multimodal bioinformatics, financial intelligence, sports analytics, and operational management.
 
 ---
 
-# Current Mission
+# About Me
 
-I am developing computational frameworks that combine:
+I work at the intersection of Artificial Intelligence, Bioinformatics, MLOps, and Precision Medicine.
 
-🧬 Microbiome Data
+My current research focuses on integrating microbiome, EEG, biochemical, and clinical data to discover hidden biological relationships and generate plausible causal hypotheses using machine learning and multimodal AI.
 
-🧠 EEG Signals
-
-📋 Clinical Questionnaires
-
-🩸 Biochemical Measurements
-
-to uncover hidden biological relationships, generate plausible causal hypotheses, and accelerate the development of precision medicine.
-
-My long-term goal is to contribute to the future of AI-driven healthcare and scientific discovery.
+I am passionate about building technologies that bridge scientific research and real-world applications.
 
 ---
 
-# Research Focus
+# Impact
 
-### Multimodal Artificial Intelligence
+📄 1 Accepted Publication
 
-Integrating heterogeneous biological and clinical data into unified machine learning systems.
+📚 2 Manuscripts Under Review
 
-### Bioinformatics & Precision Medicine
+🎓 PhD Student in Computational Sciences
 
-Building computational pipelines that transform microbiome and biomedical data into clinically relevant insights.
+🧬 AI & Bioinformatics Research
 
-### Causal Discovery
+👨‍🏫 1,800+ Students Trained Through Educational Programs
 
-Developing methods to identify plausible biological pathways and hidden relationships in complex systems.
+🌎 Educational Programs Delivered Across Mexico, United States, and Peru
 
-### MLOps for Scientific Research
+🚀 Founder of Multiple Technology Initiatives
 
-Creating reproducible, scalable, and automated AI infrastructures for biomedical research.
+---
+
+# Research Portfolio
+
+## Published
+
+### 📄 IEEE CBMS 2025
+
+**Transferable ML Approach for Multimodal Microbiome Analysis in Alcohol and Opioid Abuse Studies**
+
+Accepted for publication at IEEE CBMS 2025.
+
+DOI: 10.1109/CBMS65348.2025.00120
+
+---
+
+## Under Review
+
+### 📄 Adapted Objective Index of Water Pollution: A Transferable ML Approach
+
+**Venue:** MICAI 2026
+
+**Status:** Under Review
+
+Research focused on transferable machine learning approaches for environmental monitoring and water quality assessment.
+
+---
+
+### 📄 Artificial Intelligence in the Diagnosis, Treatment, and Management of Rare Diseases: Opportunities and Global Challenges
+
+**Status:** Under Review
+
+Research exploring the role of artificial intelligence in accelerating diagnosis, improving treatment strategies, and supporting clinical decision-making for rare diseases.
+
+---
+
+# Current Research Directions
+
+## 🧬 Multimodal Bioinformatics Framework
+
+Development of computational pipelines integrating:
+
+* EEG Signals
+* Microbiome Data (16S rRNA)
+* Clinical Questionnaires
+* Biochemical Measurements
+
+to uncover hidden biological relationships and support precision medicine research.
+
+---
+
+## 🧠 Plausible Causal Discovery in Biological Systems
+
+Development of computational approaches to identify hidden biological pathways and generate plausible causal hypotheses from multimodal datasets.
+
+---
+
+## ⚙️ MLOps for Bioinformatics
+
+Design of scalable, reproducible, and automated machine learning infrastructures for biological and biomedical research.
 
 ---
 
 # Featured Projects
 
-## 🧬 Multimodal Bioinformatics Framework
+## 🧬 Microbiota AI
 
-Research platform integrating EEG, microbiome, biochemical, and clinical data for biological knowledge discovery.
+AI-powered bioinformatics pipelines for microbiome analysis, taxonomic classification, biological interpretation, and scientific discovery.
 
-**Focus Areas**
+---
 
-* Microbiome Analysis
-* EEG Integration
-* Biological Networks
-* Precision Medicine
-* Plausible Causality
+## 🧠 EEG + Microbiome Multimodal Framework
+
+Machine learning framework for integrating EEG signals, microbiome profiles, biochemical data, and clinical questionnaires.
 
 ---
 
@@ -70,7 +117,7 @@ Advanced NHL and MLB analytics platform combining:
 * Machine Learning
 * Probability Analysis
 * Interactive Dashboards
-* AI-Assisted Decision Support
+* LLM-Powered Analytics
 
 Designed to identify hidden patterns within large-scale sports datasets.
 
@@ -78,49 +125,49 @@ Designed to identify hidden patterns within large-scale sports datasets.
 
 ## 💰 Finance AI Assistant
 
-WhatsApp-based financial intelligence platform.
+WhatsApp-based financial intelligence platform that uses AI to:
 
-Features include:
-
-* Automatic transaction classification
-* Asset and liability tracking
-* Financial dashboards
-* Projection models
-* AI-powered financial insights
-
-Built to simplify personal finance management through conversational AI.
+* Automatically classify transactions
+* Track assets and liabilities
+* Generate dashboards
+* Create financial projections
+* Provide AI-powered financial insights
 
 ---
 
 ## 🏊 Aquatic Center Manager
 
-Administrative platform for swimming schools and aquatic centers.
+Administrative platform for swimming schools and aquatic centers featuring:
 
-Features include:
-
-* Student management
-* Attendance tracking
-* Membership administration
-* Payment control
-* Operational analytics
+* Student Management
+* Attendance Tracking
+* Membership Administration
+* Payment Control
+* Operational Analytics
 
 Focused on improving operational efficiency through software automation.
 
 ---
 
-# Publications
+# Research Interests
 
-## IEEE CBMS 2025
-
-**Transferable ML Approach for Multimodal Microbiome Analysis in Alcohol and Opioid Abuse Studies**
-
-Accepted for publication.
-
-DOI: 10.1109/CBMS65348.2025.00120
+* Multimodal Artificial Intelligence
+* Bioinformatics
+* Microbiome Analysis
+* EEG Analysis
+* Precision Medicine
+* Causal Discovery
+* Biological Networks
+* MLOps for Scientific Research
+* Biomedical Data Integration
 
 ---
 
-# Technology Stack
+# Technical Stack
+
+### Programming
+
+Python • SQL • Bash • Linux
 
 ### Artificial Intelligence
 
@@ -128,15 +175,15 @@ Machine Learning • Deep Learning • LLM Applications • Statistical Modeling
 
 ### Bioinformatics
 
-QIIME2 • DADA2 • SILVA • 16S rRNA Analysis • FASTQ Processing
+QIIME2 • DADA2 • SILVA • FASTQ Processing • 16S rRNA Analysis
 
 ### Software Engineering
 
-Python • SQL • Linux • Git • GitHub Actions • Docker
+Git • GitHub Actions • Docker • Streamlit
 
 ### Visualization
 
-Streamlit • Plotly • Tableau
+Plotly • Tableau • Data Analytics
 
 ### Cloud
 
@@ -148,13 +195,14 @@ Google Cloud Platform
 
 * Publish high-impact research in AI and Bioinformatics
 * Advance multimodal learning for biological systems
-* Develop next-generation MLOps frameworks for science
+* Develop next-generation MLOps frameworks for scientific research
 * Create AI-powered products with real-world impact
 * Contribute to open-source scientific computing
+* Build technologies that accelerate precision medicine
 
 ---
 
-# Connect
+# Connect With Me
 
 📍 Guadalajara, Mexico
 
@@ -163,3 +211,5 @@ Google Cloud Platform
 🔗 LinkedIn
 
 🆔 ORCID: 0009-0001-8042-940X
+
+💻 GitHub: MarcoAParraV
