@@ -202,11 +202,6 @@ Google Cloud Platform
 
 ---
 
-## 📫 Contact
+📍 Guadalajara, Mexico | 📧 [Email](mailto:rrapa05@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mparrav/) | 🧬 [ORCID](https://orcid.org/0009-0001-8042-940X) | 💻 [GitHub](https://github.com/MarcoAParraV)
 
-📧 [Email](mailto:rrapa05@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/mparrav/)  
-🧬 [ORCID](https://orcid.org/0009-0001-8042-940X)  
-💻 [GitHub](https://github.com/MarcoAParraV)
-
-📍 Guadalajara, Mexico
+📄 IEEE CBMS 2025 Author | DOI: 10.1109/CBMS65348.2025.00120
