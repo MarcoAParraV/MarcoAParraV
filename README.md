@@ -202,12 +202,11 @@ Google Cloud Platform
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact
 
-<div align="center">
+📧 [Email](mailto:rrapa05@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mparrav/)  
+🧬 [ORCID](https://orcid.org/0009-0001-8042-940X)  
+💻 [GitHub](https://github.com/MarcoAParraV)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mparrav/)
-[![ORCID](https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0001-8042-940X)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rrapa05@gmail.com)
-
-</div>
+📍 Guadalajara, Mexico
