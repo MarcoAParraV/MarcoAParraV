@@ -204,7 +204,10 @@ Google Cloud Platform
 
 ## 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:rrapa05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mparrav/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8042--940X-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0001-8042-940X)
-[![GitHub](https://img.shields.io/badge/GitHub-MarcoAParraV-black?style=flat-square&logo=github)](https://github.com/MarcoAParraV)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mparrav/)
+[![ORCID](https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0001-8042-940X)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rrapa05@gmail.com)
+
+</div>
