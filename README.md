@@ -202,14 +202,12 @@ Google Cloud Platform
 
 ---
 
-# Connect With Me
+## 🌐 Connect With Me
 
-📍 Guadalajara, Mexico
+[![Email](https://img.shields.io/badge/Email-rrapa05%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrapa05@gmail.com)
 
-📧 [rrapa05@gmail.com](mailto:rrapa05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Parra-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mparrav/)
 
-🔗 LinkedIn
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8042--940X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8042-940X)
 
-🆔 ORCID: 0009-0001-8042-940X
-
-💻 GitHub: MarcoAParraV
+[![GitHub](https://img.shields.io/badge/GitHub-MarcoAParraV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcoAParraV)
